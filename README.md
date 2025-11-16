@@ -28,6 +28,15 @@ orbz is a React-based horoscope application that delivers **personalized daily h
 
 ---
 
+## 🎥 Demo Videos
+
+You can find a walkthrough here:
+
+- **Google Drive Demo:**  
+  https://drive.google.com/file/d/1znSRrZ0EHVgm6NF9TuILGXc4OlZ6f6mC/view?usp=sharing
+
+---
+
 ## 🧠 How It Works
 
 1. **User enters date of birth**  
